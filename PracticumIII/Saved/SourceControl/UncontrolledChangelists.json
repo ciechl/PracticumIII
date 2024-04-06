@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/MountainOverlook.umap",
-				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/_GENERATED/chloeciecko/Stairs_F415C2EF.uasset"
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/_GENERATED/chloeciecko/Stairs_F415C2EF.uasset",
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Safe_House/blueprints/BP_crane_01.uasset",
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/_GENERATED/chloeciecko/Stairs_4423C999.uasset",
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/_GENERATED/chloeciecko/Stairs_5904427A.uasset",
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/_GENERATED/chloeciecko/Stairs_898D4A2D.uasset",
+				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/_GENERATED/chloeciecko/Stairs_D4E59A33.uasset"
 			]
 		}
 	]
