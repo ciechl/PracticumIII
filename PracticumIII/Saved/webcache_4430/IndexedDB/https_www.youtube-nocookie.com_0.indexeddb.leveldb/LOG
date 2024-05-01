@@ -1,0 +1,6 @@
+2024/05/01-02:50:47.655 1e58 Creating DB C:/Users/U225A826/Documents/GitHub/PracticumIII/PracticumIII/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/01-02:50:47.693 1e58 Reusing MANIFEST C:/Users/U225A826/Documents/GitHub/PracticumIII/PracticumIII/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/01-02:54:42.858 1e58 Level-0 table #5: started
+2024/05/01-02:54:42.873 1e58 Level-0 table #5: 1167 bytes OK
+2024/05/01-02:54:42.878 1e58 Delete type=0 #3
+2024/05/01-02:54:42.884 1e58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
