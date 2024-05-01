@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/U225A826/Documents/GitHub/PracticumIII/PracticumIII/Content/Maps/MountainOverlook.umap",
+				"C:/Users/U225A826/Documents/GitHub/PracticumIII/PracticumIII/Content/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Diffusion1.uasset",
+				"C:/Users/U225A826/Documents/GitHub/PracticumIII/PracticumIII/Content/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Diffusion.uasset",
 				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Maps/MountainOverlook.umap",
 				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/_GENERATED/chloeciecko/Stairs_F415C2EF.uasset",
 				"/Users/chloeciecko/Desktop/Github/PracticumIII/PracticumIII/Content/Safe_House/blueprints/BP_crane_01.uasset",
